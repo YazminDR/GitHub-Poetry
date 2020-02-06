@@ -61,12 +61,6 @@ Good Days & I Love Yous</h1>
 <center>
 <p>
 
-<style>
-p {
-  font-size: 30px;
-}
-</style>
-
 <p class="double">
 I hope you have a good day today.<br>
 I miss you terribly.<br>
